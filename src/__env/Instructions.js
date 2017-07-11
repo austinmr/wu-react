@@ -2,7 +2,7 @@ import React, { Component } from 'react';
 
 const instructions = [
 	'Create a web form that allows users to enter two properties, a city and a state',
-	'Create a function that is called when a button is clicked with all three properties as parameters',
+	'Create a function that is called when a button is clicked with all properties as parameters',
 	'Create a function that calls the Weather Underground API to request the current conditions for the given location',
 	'Create an element that displays the current conditions provided by the Weather Underground API'
 ]
